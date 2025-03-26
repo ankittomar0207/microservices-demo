@@ -3,7 +3,7 @@ https://github.com/ankittomar0207/microservices-demo.git
 
 
 pipeline {
-    agent any
+    agent master
     
     
     stages {
